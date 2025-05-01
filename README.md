@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🧑‍🎓high school in indonesia ...
--🔍want to study in Japan ...
+-🧑‍🎓high school in indonesia-🔍want to study in Japan
 ![animate](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJuc25vNXg2ZWNscWs3NGY3bWtsMTNxYnI4ZGllbWlrbnVyOWN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCJlIDkOJDEIctfdzz/giphy.gif)
 
 ##### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 ##### Connect with me
-![https://www.instagram.com/aga_putraa1?igsh=MTQxcGJsYnZtbHptNw==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.tiktok.com/@otw30m?_t=ZS-8vzgdKi2Iml&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://www.instagram.com/aga_putraa1](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.tiktok.com/@otw30m](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
-##### My github stats
-[![Apisikma123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Apisikma123&theme=shadow_red_icons=true))
+#####My github stats
+[![Apisikma123 GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apisikma123&theme=shadow_red_icons=true)))
