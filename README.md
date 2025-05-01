@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world my name is Muhammad Aga Putra👋
 
 <!--
 **Apisikma123/Apisikma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-🧑‍🎓high school in indonesia 
+-🔍want to study in Japan
+![animate](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJuc25vNXg2ZWNscWs3NGY3bWtsMTNxYnI4ZGllbWlrbnVyOWN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCJlIDkOJDEIctfdzz/giphy.gif)
