@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![https://www.tiktok.com/@otw30m](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 ##### My github stats
-[![Apisikma123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Apisikma123&theme=shadow_red_icons=true)))
+![Apisikma123 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Apisikma123&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Apisikma123/github-readme-stats#gh-dark-mode-only)
