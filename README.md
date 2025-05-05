@@ -1,4 +1,9 @@
-<h2 align="center">Hi 👋! My name is Muhammad Aga putra and I'm a , from ....</h2>
+<h2 align="center">Hi 👋! My name is Muhammad Aga putra and I'm a stundent, from SMK TELKOM 1 Medan</h2>
+###
+
+<div align="center">
+  <img height="154" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdxdTlseGFiNDMzYmd3ZWpnZ2ViaHFqczY3NzFyczZsZXNicXB2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQem1FEDPCld3B8BRK/giphy.gif"  />
+</div>
 
 ###
 
@@ -39,11 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apisikma123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="154" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdxdTlseGFiNDMzYmd3ZWpnZ2ViaHFqczY3NzFyczZsZXNicXB2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQem1FEDPCld3B8BRK/giphy.gif"  />
-</div>
 
 ###
 
