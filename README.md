@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Muhammad Aga Putra and I'm a Student from SMK TELKOM 1 MEDAN</h2>
+<h2 align="center">Hi 👋! My name is Muhammad Aga Putra and I'm a Student from MEDAN</h2>
 
 ###
 
